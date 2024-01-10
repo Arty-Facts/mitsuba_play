@@ -1,12 +1,12 @@
+drjit
 ipykernel
 ipympl
 ipywidgets
 jupyter
 matplotlib
+mitsuba
 notebook
+numba
 numpy
-optuna
-optuna-dashboard
-torch
-torchvision
 tox
+tqdm
